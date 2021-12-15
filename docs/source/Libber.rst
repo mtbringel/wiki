@@ -1,4 +1,4 @@
-Usage
+Libber
 =====
 
 .. _installation:
