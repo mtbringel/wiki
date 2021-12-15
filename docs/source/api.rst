@@ -1,4 +1,4 @@
-API
+Libber
 ===
 
 .. autosummary::
